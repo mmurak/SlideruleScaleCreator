@@ -1,0 +1,18 @@
+#::1::0::BLACK-LABEL:K:up:cupWeight
+::::0:LIGHTGREEN:BLACK-LABEL:A:up:A
+---:GRAY
+::::0::BLACK-LABEL:A:down:A2
+::-::0::BLACK-LABEL:K:down:EggRoomTemp
+::-::0::BLACK-LABEL:LnK:down:EggFactor3
+::0::0::BLACK-LABEL:K:up:K
+-
+::0::0::BLACK-LABEL:K:down:BLANK
+::::1::BLACK-LABEL:A:down:BLANK
+::::0::RED-LABEL:AI:up:BLANK
+#---:RED
+::3::0::BLACK-LABEL:K:up:weight
+---:BLUE
+::0::0::BLACK-LABEL:K:down:volume
+# ::3::0::BLACK-LABEL:FahrenheitM40P932:up:Fahrenheit
+#---:BLACK
+# ::0::0::BLACK-LABEL:CelsiusM40P500:down:Celsius

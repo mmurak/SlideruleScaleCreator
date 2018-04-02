@@ -1,0 +1,22 @@
+XL=2πFL::8::::GREEN-LABEL:E2pi12:up:Hemmi266-XL
+:  TL=L/R:-::::RED-LABEL:L:up:Hemmi266-BLANK
+XC=1/(2πFC)::0.5::::GREEN-LABEL:EI2pi12:down:Hemmi266-XC
+:  R,TC=RC:-::::RED-LABEL:L:up:Hemmi266-BLANK
+      F::::::GREEN-LABEL:E12:up:Hemmi266-F
+:  fm=1/(sqrt(2πRC)):-::::RED-LABEL:L:up:Hemmi266-BLANK
+            r₁::::::RED-LABEL:EHarmonicMean:up:Hemmi266-r1
+            :P:-::::GREEN-LABEL:ESquare:up:Hemmi266-P
+-
+            r₂::::::RED-LABEL:EHarmonicMean:down:Hemmi266-r1
+            :Q:-::::GREEN-LABEL:ESquare:down:Hemmi266-P
+      L::::::GREEN-LABEL:EI12:up:Hemmi266-EL
+      :  L:-::::RED-LABEL:EI12:up:Hemmi266-BLANK
+Cf::0.5::::BLUEBLACK-LABEL:EI2piroot12:down:Hemmi266-ECf
+      C::-::::GREEN-LABEL:L:down:Hemmi266-BLANK
+Cz::::::BLUEBLACK-LABEL:E12:up:Hemmi266-ECz
+:  C:-::::RED-LABEL:L:up:Hemmi266-BLANK
+-
+L::::::BLUEBLACK-LABEL:E12:down:Hemmi266-EL2
+Z=sqrt(L/C)::0.5::::BLUEBLACK-LABEL:E6:up:Hemmi266-Z
+f0=1/(2πsqrt(LC))::0.5::::BLUEBLACK-LABEL:EI6:down:Hemmi266-f0
+      λ::-1.5::::RED-LABEL:L:up:Hemmi266-BLANK

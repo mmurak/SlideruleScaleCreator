@@ -1,0 +1,45 @@
+::8::::BLUEBLACK-LABEL:L:up:BLANK		# upper stator
+L::::::BLUEBLACK-LABEL:L:up:Hemmi149-L
+K::::::BLUEBLACK-LABEL:K:up:Hemmi149-K
+A::::::BLUEBLACK-LABEL:A:up:Hemmi149-A
+
+::::::BLUEBLACK-LABEL:L:up:BLANK		# slider space
+::::::BLUEBLACK-LABEL:L:up:BLANK
+::::::BLUEBLACK-LABEL:K:up:BLANK
+::::::BLUEBLACK-LABEL:A:up:BLANK
+
+::::::BLUEBLACK-LABEL:L:up:BLANK		# catch (back)
+::::::BLUEBLACK-LABEL:L:up:BLANK
+::::::BLUEBLACK-LABEL:K:up:BLANK
+::::::BLUEBLACK-LABEL:A:up:BLANK
+---:GREEN		# valley fold
+::::::BLUEBLACK-LABEL:L:up:BLANK		# catch (front)
+::::::BLUEBLACK-LABEL:L:up:BLANK
+::::::BLUEBLACK-LABEL:K:up:BLANK
+::::::BLUEBLACK-LABEL:C:up:Hemmi149-D
+-		# mountain fold
+D::::::BLUEBLACK-LABEL:C:down:Hemmi149-D		# lower stator
+LL0::::::BLUEBLACK-LABEL:LL0:down:Hemmi149-LL0
+LL/0::::::RED-LABEL:LL00:down:Hemmi149-LL00
+::::::BLUEBLACK-LABEL:L:up:BLANK
+---:BLUEBLACK			# scissors line
+::::::BLUEBLACK-LABEL:L:up:BLANK		# slider (back)
+::::::BLUEBLACK-LABEL:L:up:BLANK
+::::::BLUEBLACK-LABEL:K:up:BLANK
+::::::BLUEBLACK-LABEL:A:up:Hemmi149-A
+-		# mountain fold
+B::::::BLUEBLACK-LABEL:A:down:Hemmi149-A		# slider
+TI::::::BLUEBLACK-LABEL:TI1:up:Hemmi149-TI
+SI::::::BLUEBLACK-LABEL:SI:up:Hemmi149-SI
+C::::::BLUEBLACK-LABEL:C:up:Hemmi149-C
+
+::::::BLUEBLACK-LABEL:C:down:Hemmi149-C		# slider (foot)
+::::::BLUEBLACK-LABEL:L:up:BLANK
+::::::BLUEBLACK-LABEL:K:up:BLANK
+::::::BLUEBLACK-LABEL:A:up:BLANK
+-		# mountain fold
+::::::BLUEBLACK-LABEL:L:up:BLANK		# slider (back)
+::::::BLUEBLACK-LABEL:L:up:BLANK
+::::::BLUEBLACK-LABEL:K:up:BLANK
+::::::BLUEBLACK-LABEL:A:up:BLANK
+---:BLUEBLACK			# scissors line

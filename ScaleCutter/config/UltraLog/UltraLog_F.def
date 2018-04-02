@@ -1,0 +1,27 @@
+LL00:e^(-0.001x):8::::RED-LABEL:LL00:up:UltraLog-10-LL00
+LL01:e^(-0.01x):::::RED-LABEL:LL01:up:UltraLog-10-LL01
+LL02:e^(-0.1x):::::RED-LABEL:LL02:up:UltraLog-10-LL02
+LL03:e^(-x):::::RED-LABEL:LL03:up:UltraLog-10-LL03
+---:GRAY
+DF:πx::::LEMON:BLACK-LABEL:CFpi:up:UltraLog-10-DF
+-
+CF:πx::::LEMON:BLACK-LABEL:CFpi:down:UltraLog-10-CF
+CIF:1/πx::::LEMON:RED-LABEL:CIFpi:down:UltraLog-10-CIF
+---:GRAY
+SH1:∢ sinh:::::BLACK-LABEL:SH1:down:UltraLog-10-SH1
+SH2:∢ sinh:::::BLACK-LABEL:SH2:down:UltraLog-10-SH2
+CH:∢ cosh:::::BLACK-LABEL:CH:down:UltraLog-10-CH
+TH:∢ tanh:::::BLACK-LABEL:TH:down:UltraLog-10-TH
+---:GRAY
+Ln:ln x:::::BLACK-LABEL:Ln:up:UltraLog-10-Ln
+L:log x:::::BLACK-LABEL:L:up:UltraLog-10-L
+---:GRAY
+CI:1/x::::LEMON:RED-LABEL:CI:up:UltraLog-10-CI
+C:x::::LEMON:BLACK-LABEL:C:up:UltraLog-10-C
+-
+D:x::::LEMON:BLACK-LABEL:C:down:UltraLog-10-D
+---:GRAY
+LL3:e^x:::::BLACK-LABEL:LL3:down:UltraLog-10-LL3
+LL2:e^(0.1x):::::BLACK-LABEL:LL2:down:UltraLog-10-LL2
+LL1:e^(0.01x):::::BLACK-LABEL:LL1:down:UltraLog-10-LL1
+LL0:e^(0.001x):::::BLACK-LABEL:LL0:down:UltraLog-10-LL0

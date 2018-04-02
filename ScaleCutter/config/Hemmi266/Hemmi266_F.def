@@ -1,0 +1,17 @@
+LL03::8::::RED-LABEL:LL03A:up:Hemmi266-LL03
+:-0.01←-0.1:-::::RED-LABEL:LL01A:up:Hemmi266-LL01
+                                                                                                                                                                                 "ELECTRONICS"::-::::BLUEBLACK-LABEL:L:up:Hemmi266-BLANK
+LL02:-0.1←-10:::::RED-LABEL:LL02A:up:Hemmi266-LL02
+LL2:0.1→10:0.5::::BLUEBLACK-LABEL:LL2A:down:Hemmi266-LL2
+A::::::BLUEBLACK-LABEL:A:up:Hemmi266-A
+-
+B::::::BLUEBLACK-LABEL:A:down:Hemmi266-A
+BI::::::RED-LABEL:AI:up:Hemmi266-BI
+CI::0.5::::RED-LABEL:CI:down:Hemmi266-CI
+C::::::BLUEBLACK-LABEL:C:up:Hemmi266-C
+-
+D::::::BLUEBLACK-LABEL:C:down:Hemmi266-D
+dB::0.5::::BLUEBLACK-LABEL:L:down:Hemmi266-dB
+     L::-::::RED-LABEL:L:down:Hemmi266-BLANK
+S::::::BLUEBLACK-LABEL:S:up:Hemmi266-S
+T::0.5::::BLUEBLACK-LABEL:T1:down:Hemmi266-T

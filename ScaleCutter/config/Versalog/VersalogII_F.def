@@ -1,0 +1,26 @@
+              LL/0:-0.001←-0.01:8::::RED-LABEL:LL00:up:standard-10-LL00
+e^(-x)::-::::RED-LABEL:L:up:standard-10-BLANK
+              K::::::BB-LABEL:K:up:standard-10-K
+x^3::-::::BB-LABEL:L:up:standard-10-BLANK
+              A::::::BB-LABEL:A:up:standard-10-A
+x^2::-::::BB-LABEL:L:up:standard-10-BLANK
+              DF::::::BB-LABEL:CFpi:up:standard-10-DF
+πx::-::::BB-LABEL:L:up:standard-10-BLANK
+-
+              CF::::::BB-LABEL:CFpi:down:standard-10-CF
+πx::-::::BB-LABEL:L:up:standard-10-BLANK
+              CIF::::::RED-LABEL:CIFpi:down:standard-10-CIF
+1/πx::-::::RED-LABEL:L:up:standard-10-BLANK
+              CI::::::RED-LABEL:CI:up:standard-10-CI
+1/x::-::::RED-LABEL:L:up:standard-10-BLANK
+              C::::::BB-LABEL:C:up:standard-10-C
+x::-::::BB-LABEL:L:up:standard-10-BLANK
+-
+              D::::::BB-LABEL:C:down:standard-10-D
+x::-::::BB-LABEL:L:up:standard-10-BLANK
+              R1::::::BB-LABEL:R1:down:standard-10-R1
+sqrt(x)::-::::BB-LABEL:L:up:standard-10-BLANK
+              R2::::::BB-LABEL:R2:down:standard-10-R2
+sqrt(x)::-::::BB-LABEL:L:up:standard-10-BLANK
+              LL0:0.001→0.01:::::BB-LABEL:LL0:down:standard-10-LL0
+e^x::-::::BB-LABEL:L:up:standard-10-BLANK

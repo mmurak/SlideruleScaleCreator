@@ -1,0 +1,14 @@
+S:sin:8::::BLUEBLACK-LABEL:S:down:ThorntonAA010-S
+ST:sin tan:::::BLUEBLACK-LABEL:ST:up:ThorntonAA010-ST
+T:tan:0.5::::BLUEBLACK-LABEL:T1:down:ThorntonAA010-T
+A:x^2:::::BLUEBLACK-LABEL:A:up:ThorntonAA010-A
+-
+B:x^2:::::BLUEBLACK-LABEL:A:down:ThorntonAA010-A
+L:log x:::::BLUEBLACK-LABEL:L:up:ThorntonAA010-L
+K:x^3:0.5::::BLUEBLACK-LABEL:K:down:ThorntonAA010-K
+C:x:::::BLUEBLACK-LABEL:C:up:ThorntonAA010-Cfront
+-
+D:x:::::BLUEBLACK-LABEL:C:down:ThorntonAA010-Cfront
+DI:1/x:::::RED-LABEL:CI:up:ThorntonAA010-DI
+Ps:√(1-s^2):0.5::::RED-LABEL:P:down:ThorntonAA010-Ps
+Pt:√(1+t^2):::::BLUEBLACK-LABEL:Pt:up:ThorntonAA010-Pt

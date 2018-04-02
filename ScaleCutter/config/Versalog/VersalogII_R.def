@@ -1,0 +1,22 @@
+              L::8::::BB-LABEL:L:up:standard-10-L
+log x::-::::BB-LABEL:L:up:standard-10-BLANK
+              LL/1:-0.01←-0.1:::::RED-LABEL:LL01:up:standard-10-LL01
+              LL/2:-0.1←-1.0:::::RED-LABEL:LL02:up:standard-10-LL02
+e^-x::-::::RED-LABEL:L:up:standard-10-BLANK
+              LL/3:-1.0←-10.0:::::RED-LABEL:LL03:up:standard-10-LL03
+-
+              T:0.1→1.0:::::BB-LABEL:T1:up:standard-10-T1
+T:            10.0←1.0:-::::RED-LABEL:L:up:standard-10-BLANK
+              SRT:0.01→0.1:::::BB-LABEL:ST:up:standard-10-ST
+SecT:             100.0←10.0:-::::RED-LABEL:L:up:standard-10-BLANK
+              S:0.1⇔1.0:::::BB-LABEL:S:up:standard-10-S
+Cos::-::::GREEN-LABEL:L:up:standard-10-BLANK
+              C:x:::::BB-LABEL:C:up:standard-10-C
+x::-::::BB-LABEL:L:up:standard-10-BLANK
+-
+              D:x:::::BB-LABEL:C:down:standard-10-D
+x::-::::BB-LABEL:L:up:standard-10-BLANK
+              LL3:1.0→10.0:::::BB-LABEL:LL3:down:standard-10-LL3
+              LL2:0.1→1.0:::::BB-LABEL:LL2:down:standard-10-LL2
+e^x::-::::BB-LABEL:L:up:standard-10-BLANK
+              LL1:0.01→0.1:::::BB-LABEL:LL1:down:standard-10-LL1

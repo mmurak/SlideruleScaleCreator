@@ -1,0 +1,34 @@
+# general properties
+PAPER-WIDTH:297         # paper width (mm)  EG. A3=420, A4=297
+PAPER-HEIGHT:210        # paper height (mm) EG. A3=297, A4=210
+# slide rule properties
+RULE-TYPE:LINEAR        # type of slide rule (LINEAR or CIRCULAR)
+LENGTH:254                  # length between left index and right index (mm)
+LEFT-MARGIN:21.5          # position of left index from paper edge (mm)
+LEFT-LEADING:5         # start position of left label from paper edge (mm)
+RIGHT-MARGIN:21.5         # position of right margin (mm) -- not useful as I expected
+RIGHT-LEADING:2        # start position of right label from right index (mm)
+CUT-MARK-SIZE:3         # stroke length of cut mark (mm)
+# scale properties
+LINE-WIDTH:0.070556     # specify in mm (1pt = 0.35278mm)
+NOTCH-SIZE-S:1.1            # small tick size (mm)
+NOTCH-SIZE-M:1.65       # medium tick size (mm)
+NOTCH-SIZE-L:2.2            # large tick size (mm)
+GAUGE-MARK-NOTCH-SIZE:1.9   # tick size for gauge mark (mm)
+# default properties
+DEFAULT-HEIGHT:3.6      # default scale height (mm)  which can be overridden from scale-set file
+# colour section (specify colours as many as you wish with RGB scheme)
+COLOUR:WHITE=255,255,255
+COLOUR:BLACK=0,0,0
+# nib section (specify character informations as many as you wish)
+#   nib-id,
+#   font-name or font-filename(ttf file),
+#   character-size (in pt),
+#   color (colour name specified in previous section), 
+#   vertical adjust value (mm), -- positive value makes characters move away from baseline
+#   alignment (LEFT or CENTRE or RIGHT), -- when LEFT, characters appear on the left of specified position
+#   shearing -- positive value (for instance 0.3) makes characters oblique, and negative value makes...
+NIB:LABEL=fonts/umefont_670/ume-pgs5.ttf,6,BLACK,0,RIGHT,0,0
+NIB:CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,BLACK,-1,CENTRE,0,0
+# scale set files (specify scale-set filename in config directory)
+SCALE-SET:Hope52.def

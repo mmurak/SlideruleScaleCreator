@@ -1,0 +1,66 @@
+# general properties
+PAPER-WIDTH:297         # paper width (mm)  EG. A3=420, A4=297
+PAPER-HEIGHT:210        # paper height (mm) EG. A3=297, A4=210
+# slide rule properties
+RULE-TYPE:CIRCULAR        # type of slide rule (LINEAR or CIRCULAR)
+DIAMETER:120
+CORE-DIAMETER:15
+LEFT-LEADING:1         # start position of left label from paper edge (mm)
+RIGHT-LEADING:1        # start position of right label from right index (mm)
+# scale properties
+LINE-WIDTH:0.070556     # specify in mm (1pt = 0.35278mm)
+NOTCH-SIZE-S:0.8            # small tick size (mm)
+NOTCH-SIZE-M:1.65       # medium tick size (mm)
+NOTCH-SIZE-L:2.2            # large tick size (mm)
+GAUGE-MARK-NOTCH-SIZE:1.9   # tick size for gauge mark (mm)
+# default properties
+DEFAULT-HEIGHT:3.6      # default scale height (mm)  which can be overridden from scale-set file
+# colour section (specify colours as many as you wish with RGB scheme)
+COLOUR:BLACK=0,0,0
+COLOUR:BLUE=0,0,128
+COLOUR:GRAY=128,128,128
+COLOUR:RED=255,0,0
+COLOUR:DARKGREEN=0,128,0
+COLOUR:PINK=255,240,245
+COLOUR:LIGHTCYAN=228,255,255
+COLOUR:LIGHTGREEN=228,255,228
+COLOUR:ALICEBLUE=240,248,255
+COLOUR:LAVENDER=230,230,250
+COLOUR:LIGHTSTEELBLUE=176,196,222
+COLOUR:SIZEPEEWEE=231,213,232
+COLOUR:SIZESMALL=210,204,230
+COLOUR:SIZEMEDIUM=211,222,241
+COLOUR:SIZELARGE=213,234,216
+COLOUR:SIZEXTRALARGE=254,236,210
+COLOUR:SIZEJUMBO=250,219,218
+COLOUR:ORANGE=255,165,0
+COLOUR:PALEORANGE=255,216,153
+COLOUR:COLOUR6=251,154,145
+COLOUR:COLOUR5=252,177,103
+COLOUR:COLOUR4=254,233,107
+COLOUR:COLOUR3=128,255,248
+COLOUR:COLOUR2=157,201,255
+COLOUR:COLOUR1=155,168,255
+# nib section (specify character informations as many as you wish)
+#   nib-id,
+#   font-name or font-filename(ttf file),
+#   character-size (in pt),
+#   color (colour name specified in previous section), 
+#   vertical adjust value (mm), -- positive value makes characters move away from baseline
+#   alignment (LEFT or CENTRE or RIGHT), -- when LEFT, characters appear on the left of specified position
+#   shearing -- positive value (for instance 0.3) makes characters oblique, and negative value makes...
+NIB:BLACK-LABEL=fonts/umefont_670/ume-pgs5.ttf,6,BLACK,-2,RIGHT,0,0
+NIB:RED-LABEL=fonts/umefont_670/ume-pgs5.ttf,6,RED,-2,RIGHT,0,0
+NIB:BLACK-CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,BLACK,-2,CENTRE,0,0
+NIB:GREEN-CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,DARKGREEN,-2,CENTRE,0,0
+NIB:BLACK-FAR-CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,BLACK,5,CENTRE,0,0
+NIB:ORANGE-FAR-CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,ORANGE,5,CENTRE,0,0
+NIB:BLACK-LEFT=fonts/umefont_670/ume-pgs5.ttf,6,BLACK,-2,LEFT,2,0
+NIB:BLACK-RIGHT=fonts/umefont_670/ume-pgs5.ttf,6,BLACK,-2,RIGHT,2,0
+NIB:RED-CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,RED,-2,CENTRE,0,0
+NIB:BLUE-CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,BLUE,-2,CENTRE,0,0
+NIB:ORANGE-CENTRE=fonts/umefont_670/ume-pgs5.ttf,6,ORANGE,-2,CENTRE,0,0
+# scale set files (specify scale-set filename in config directory)
+SCALE-SET:cookingHelper-B.def
+SCALE-SET:cookingHelper-S.def
+SCALE-SET:cookingHelper-T.def
