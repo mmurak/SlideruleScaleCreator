@@ -1,5 +1,5 @@
 # SlideruleScaleCreator
-It creates various scale images (in PDF format) which can be used in slide rule.
+It creates various scale images (in PDF format) which could be used to make your own slide rule.
 
 Binary files are shared in Google Drive.
 
